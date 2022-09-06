@@ -9,5 +9,5 @@ echo "Enter num2: "
 read num2
 
 multiply=`expr $num1 \* $num2`
-echo "print the answer"
+echo "print the multiplied answer"
 
